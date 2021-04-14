@@ -3,7 +3,7 @@ Server Back-End para modificar datos de usuarios mediante CRUD de los empleados 
 
 # Getting Started with npm i express mysql cors
 
-This project was bootstrapped with [npm i express mysql cors](https://expressjs.com/es/) and [nodemon](https://nodemon.io/) with [npm i nodemon -D](https://expressjs.com/es/).
+This project was bootstrapped with [npm i express mysql cors](https://expressjs.com/es/) and [nodemon](https://nodemon.io/) with [npm i nodemon -D](https://www.npmjs.com/package/nodemon).
 
 ## Available Scripts
 
