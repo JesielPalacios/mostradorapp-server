@@ -27,6 +27,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## Learn More
+
 **Note: For making requests to the diferents End-Points!**
 
 ### `GET:`
