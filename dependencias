@@ -1,0 +1,38 @@
+npm i express mysql cors
+npm i nodemon -D
+
+Peticiones para los dirferentes End-Points:
+
+GEt:
+http://localhost:3000/
+http://localhost:3000/1
+http://localhost:3000/2
+
+
+POST:
+{
+    "id": 0,
+    "name": "test2",
+    "salary": 100000
+}
+
+{
+    "id": 0,
+    "name": "test",
+    "salary": 3456345656345
+}
+
+{
+    "id": 0,
+    "name": "test2",
+    "salary": 100000
+}
+
+
+PUT:
+http://localhost:3000/5
+
+{
+    "name": "test2",
+    "salary": 10
+}
